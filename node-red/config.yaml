@@ -1,15 +1,14 @@
 ---
-name: Node-RED
+name: Node-RED Plus
 version: dev
-slug: nodered
+slug: noderedplus
 description: Flow-based programming for the Internet of Things
-url: https://github.com/hassio-addons/addon-node-red
+url: https://github.com/Cameri/addon-node-red/tree/main/node-red
 ingress: true
 ingress_port: 0
 ingress_stream: true
 panel_icon: mdi:sitemap
 init: false
-homeassistant: 2021.3.0
 arch:
   - aarch64
   - amd64
