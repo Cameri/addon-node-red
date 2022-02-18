@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 name: Node-Red Plus add-on repository
-url: 'https://github.com/Cameri/addon-node-red/new/main'
+url: 'https://github.com/Cameri/addon-node-red'
 maintainer: Ricardo Cabral <me@ricardocabral.io>
