@@ -1,6 +1,6 @@
 ---
 name: Node-RED Plus
-version: dev
+version: "1.0.0"
 slug: noderedplus
 description: Flow-based programming for the Internet of Things
 url: https://github.com/Cameri/addon-node-red/tree/main/node-red
