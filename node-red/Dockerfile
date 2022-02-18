@@ -52,6 +52,7 @@ RUN \
 
 # Environment variables
 ENV NODE_ICU_DATA=/opt/node_modules/full-icu
+ENV NODE_OPTIONS="--experimental-modules --es-module-specifier-resolution=node"
 
 # Copy root filesystem
 COPY rootfs /
